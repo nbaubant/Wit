@@ -2,7 +2,7 @@
 title: Nos Events
 layout: landing
 description: 'Petit tour sur tout nos evenenments<br />Quoi de neuf?.'
-image: assets/images/Reunion de bureau.jpeg
+image: assets/images/agentaofchange.jpg
 nav-menu: true
 ---
 
