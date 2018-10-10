@@ -3,11 +3,11 @@ title: Whomen in Technology France
 subtitle: by WIT
 email: WomenInTechnologyFrance@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/WitFrance" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ""  # the base hostname & protocol for your site
 author: Nadege BAUBANT
 street_address: 1234 Somewhere Road
-city: Nashville
+city: Paris
 state: TN
 zip_code: 75000
 country: France
