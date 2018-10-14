@@ -4,6 +4,7 @@ title:  Nos Partenaires
 description: Liste des partenaires du Wit
 image: assets/images/NosPartenaires.jpg
 nav-menu: true
+show_tile: true
 ---
 
 
