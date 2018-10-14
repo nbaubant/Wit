@@ -2,42 +2,32 @@
 title: Nos Events
 layout: landing
 description: 'Petit tour sur tout nos evenenments<br />Quoi de neuf?.'
-image: assets/images/agentaofchange.jpg
+image: assets/images/9-conferences-mensuelles.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
 <div id="main">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
-
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/Reunion de bureau.jpeg" alt="" data-position="center center" />
+		<a href="Event-20180910.html" class="image">
+			<img src="assets/images/WIT-Agents-of-Change.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Réunion de bureau chez Cellenza</h3>
+					<h3>#AgentsOfChange</h3>
 				</header>
-				<p>Roadmap 2019.</p>
+				<p>Comment définir et devenir l'un des agents de changement pour modifier durablement le paysage professionnel et profiter d'un environnement divers ? Le WIT France nous a restituté les temps forts d'INSPIRE 2018 et nous a invité à devenir un agent de changement !!!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="Event-20180910.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
@@ -48,7 +38,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="element.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -68,10 +58,10 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section>-->
 </section>
 
-<!-- Three -->
+<!-- Three 
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -82,6 +72,4 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
-
-</div>
+</section>-->

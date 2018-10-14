@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
+title: Blog
 landing-title: 'All posts'
 nav-menu: true
-description: null
-image: null
+description: Nos articles
+image: assets/images/blog.jpg
 author: null
-show_tile: false
+show_tile: true
 ---
 
 <h1>All posts</h1>

@@ -4,7 +4,7 @@ subtitle: by WIT
 email: WomenInTechnologyFrance@gmail.com
 description: Bienvenue sur le site de "Women In Technology France"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site
+url: "https://womenintechnologyfrance.azurewebsites.net"  # the base hostname & protocol for your site
 author: Nadege BAUBANT
 street_address: 1234 Somewhere Road
 city: Paris
@@ -15,7 +15,7 @@ phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 
 # social settings
 500px_url:
