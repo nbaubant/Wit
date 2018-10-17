@@ -6,12 +6,12 @@ description: Bienvenue sur le site de "Women In Technology France"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://womenintechnologyfrance.azurewebsites.net"  # the base hostname & protocol for your site
 author: Nadege BAUBANT
-street_address: 1234 Somewhere Road
+street_address: 34 Boulevard de charonne
 city: Paris
-state: TN
-zip_code: 75000
+state: France
+zip_code: 75020
 country: France
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 15
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/groups/8575209
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/WITWomen
 
 # build settings
 markdown: kramdown
